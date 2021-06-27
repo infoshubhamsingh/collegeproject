@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/collegeproject/static/css/main.5fc872c8.chunk.css",
+    "main.js": "/collegeproject/static/js/main.f2dd2234.chunk.js",
+    "main.js.map": "/collegeproject/static/js/main.f2dd2234.chunk.js.map",
+    "runtime-main.js": "/collegeproject/static/js/runtime-main.6e725929.js",
+    "runtime-main.js.map": "/collegeproject/static/js/runtime-main.6e725929.js.map",
+    "static/js/2.f095ca54.chunk.js": "/collegeproject/static/js/2.f095ca54.chunk.js",
+    "static/js/2.f095ca54.chunk.js.map": "/collegeproject/static/js/2.f095ca54.chunk.js.map",
+    "index.html": "/collegeproject/index.html",
+    "static/css/main.5fc872c8.chunk.css.map": "/collegeproject/static/css/main.5fc872c8.chunk.css.map",
+    "static/js/2.f095ca54.chunk.js.LICENSE.txt": "/collegeproject/static/js/2.f095ca54.chunk.js.LICENSE.txt",
+    "static/media/GamingHome.css": "/collegeproject/static/media/image1.753d1027.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e725929.js",
+    "static/js/2.f095ca54.chunk.js",
+    "static/css/main.5fc872c8.chunk.css",
+    "static/js/main.f2dd2234.chunk.js"
+  ]
+}
